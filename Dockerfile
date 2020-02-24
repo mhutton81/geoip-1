@@ -13,7 +13,7 @@ MAINTAINER Tom Callahan <tcallahan@controlscan.com>
 
 ### DOWNLOAD DATABASES
 
-ENV GEOIP_BASE_URL      http://hqtempmon.wsdot.loc/
+ENV GEOIP_BASE_URL      http://hqtempmon.wsdot.loc
 ENV GEOIP_CNTR_DB       GeoLite2-Country.mmdb
 ENV GEOIP_CITY_DB       GeoLite2-City.mmdb
 ENV GEOIP_DB_DIR        /usr/share/GeoIP
